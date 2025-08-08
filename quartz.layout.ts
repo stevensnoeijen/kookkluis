@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         categoryId: 'DIC_kwDOPakuMc4Ct8KG',
         mapping: 'pathname',
+        lang: 'nl',
       },
     }),
   ],
