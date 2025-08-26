@@ -3,8 +3,8 @@ tags:
   - indiaas
   - curry
   - hoofdgerecht
-created: 2007-09-21T09:37Z
-author: 
+created: 2007-09-21
+author: Gordon Ramsay
 url: https://www.food.com/recipe/gordon-ramsays-malaysian-chicken-curry-254495
 ---
 Bereidingstijd: 26m 
