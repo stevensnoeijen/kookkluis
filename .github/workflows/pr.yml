@@ -19,7 +19,7 @@ jobs:
         run: npm install
 
       - name: Run build
-        run: npm run build
+        run: npx quartz build
 
       - name: Report status
         if: ${{ success() }}
