@@ -1,8 +1,8 @@
 ---
 tags:
   - brood
-created:
-author:
+created: 2025-06-09
+author: Hendrik Kleinwächter - The Sourdough Framework
 url:
 ---
 Bereidingstijd: 3 dagen (waarvan 2 dagen starter voeden, en 1 dag deeg maken en afbakken)
