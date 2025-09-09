@@ -17,7 +17,7 @@ Recept voor: 1 brood
 - Brood:
 	- 400 gr tarwemeel
 	- 100 gr tarwebloem
-	- 300-450 gr water (meer is makkelijker, ik houd het bij 400 gr)
+	- 300 gr water
 	- 50 gr desemstarter
 	- 10 gr zout
 
@@ -42,7 +42,7 @@ Probeer dit te plannen zodat je starter de volgende ochtend lekker actief is!
 **Dag 2: Deeg maken**
 
 1. **Deeg maken** ('s ochtends)
-    1. Meng in een grote glazen kom de **50 g** actieve starter en de **400 g** water.
+    1. Meng in een grote glazen kom de **50 g** actieve starter en de **300 g** water.
     2. Voeg de **400 g** tarwemeel, **100 g** tarwebloem en **10 g** zout toe.
     3. Meng alles met je hand of een lepel totdat er geen droge meelresten meer zijn. Het deeg hoeft niet glad te zijn.
     4. Dek de kom af, markeer het startniveau met tape en laat het **4-10 uur** op kamertemperatuur rijzen totdat het deeg **in volume is verdubbeld**.
