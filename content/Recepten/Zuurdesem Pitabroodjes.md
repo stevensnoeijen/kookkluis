@@ -1,8 +1,9 @@
 ---
 tags:
   - brood
+  - zuurdesem
 created: 2025-07-28
-author: 
+author:
 url: https://www.youtube.com/watch?v=IHpDdgm59B0
 ---
 Bereidingstijd: 3 tot 4 uur (ligt aan de rijstijd)

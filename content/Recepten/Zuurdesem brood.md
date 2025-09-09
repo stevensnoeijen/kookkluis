@@ -1,6 +1,7 @@
 ---
 tags:
   - brood
+  - zuurdesem
 created: 2025-06-09
 author: Hendrik Kleinwächter - The Sourdough Framework
 url:
