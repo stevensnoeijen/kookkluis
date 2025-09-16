@@ -11,7 +11,7 @@ Bereidingstijd: 45 minuten
 
 Recept voor: 2 personen
 
-![[Recepten/Afbeeldingen/Risotto-met-geroosterde-cherrytomaten-en-kruidige-venkel-met-witte-kaas,-amandelen-en-peterselie/Risotto-met-geroosterde-cherrytomaten-en-kruidige-venkel-met-witte-kaas,-amandelen-en-peterselie.jpg|500]]
+![[Recepten/Afbeeldingen/Risotto-met-geroosterde-cherrytomaten/Risotto-met-geroosterde-cherrytomaten.jpg|500]]
 
 ### Ingredienten
 
