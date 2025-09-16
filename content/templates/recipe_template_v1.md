@@ -1,7 +1,7 @@
 ---
-tags: 
-created: 
-author: 
+tags:
+created:
+author:
 url:
 ---
 Bereidingstijd: {{magicTime cookTime}}
