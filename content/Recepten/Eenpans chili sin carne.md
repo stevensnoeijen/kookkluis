@@ -16,18 +16,18 @@ Recept voor: 2 personen
 
 ### Ingredienten
 
-- 300 gr vega gehakt
-- 1  grote ui
-- 2 tenen knoflook
-- optioneel: 2 paprika’s
-- optioneel: 100gr mais
-- 200 gr kidneybonen
-- 200 gr bruine bonen
-- 70 gr tomatenpuree
-- 400 ml tomatenblokjes
-- 1  bouillonblokje rund of groenten
-- 250 ml water
-- 200 gr snelkookrijst
+- 200 gr vega gehakt
+- 1 ui
+- 1,5 tenen knoflook
+- optioneel: 1 paprika
+- optioneel: 70 gr mais
+- 130 gr kidneybonen
+- 130 gr bruine bonen
+- 45 gr tomatenpuree
+- 270 ml tomatenblokjes
+- 2/3 bouillonblokje rund of groenten
+- 165 ml water
+- 130 gr snelkookrijst
 - geraspte kaas
 - evt 1 bosui
 - 2 tl paprikapoeder
