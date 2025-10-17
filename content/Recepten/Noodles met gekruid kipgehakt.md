@@ -3,6 +3,7 @@ tags:
   - hoofdgerecht
   - kip
   - aziatisch
+  - wok
 created: 2023-01-18T10:57:51+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/aziatische-fusionsalade-met-gekruid-kipgehakt-63c7d0af6ab9cacaa3737905

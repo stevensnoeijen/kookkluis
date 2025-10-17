@@ -1,9 +1,10 @@
 ---
 tags:
   - zwitsers
-  - eenpansgerecht
+  - eenpans
   - spekjes
   - hoofdgerecht
+  - eenpans
 created: 2022-06-07T06:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/eenpansgerecht-met-rosti-en-ei/

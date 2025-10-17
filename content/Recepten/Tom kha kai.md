@@ -2,6 +2,7 @@
 tags:
   - soep
   - aziatisch
+  - eenpans
 created:
 author:
 url: https://chickslovefood.com/recept/18869-2/

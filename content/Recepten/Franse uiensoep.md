@@ -3,9 +3,10 @@ tags:
   - soep
   - frans
   - maaltijdsoep
-  - eenpansgerecht
+  - eenpans
   - vega
   - hoofdgerecht
+  - oven
 created: 2020-01-29T08:12:28+01:00
 author: Sandra Waterschoot
 url: https://www.leukerecepten.nl/recepten/franse-uiensoep/

@@ -5,6 +5,7 @@ tags:
   - stoof
   - hoofdgerecht
   - vega
+  - oven
 created: 
 author: 
 url: https://www.dewereldopjebord.nl/loubia-marokkaans-bonenstoofpotje/

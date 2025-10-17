@@ -4,6 +4,7 @@ tags:
   - pompoen
   - bulgur
   - hoofdgerecht
+  - oven
 created: 2024-02-27T09:42:00+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/global-cuisine-and-quick-25-min-chicken-or-pork-couscous-or-grains-65dda1aa9a647d3c9d36fae0

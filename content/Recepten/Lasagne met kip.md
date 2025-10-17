@@ -1,6 +1,6 @@
 ---
 tags:
-  - ovengerecht
+  - oven
   - hoofdgerecht
 created: 
 author: 

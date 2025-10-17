@@ -1,7 +1,7 @@
 ---
 tags:
   - hongaars
-  - eenpansgerecht
+  - eenpans
   - hoofdgerecht
 created:
 author: Smulweb - Rudolph van Veen

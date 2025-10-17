@@ -2,6 +2,8 @@
 tags:
   - hoofdgerecht
   - vega
+  - oven
+  - wok
 created: 2022-02-17T14:34:11+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas-620e5ce3e3d2ad5a1e2987fd

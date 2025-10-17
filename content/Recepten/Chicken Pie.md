@@ -1,7 +1,7 @@
 ---
 tags:
   - stoof
-  - ovengerecht
+  - oven
   - engels
   - kip
   - hoofdgerecht

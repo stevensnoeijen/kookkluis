@@ -1,9 +1,9 @@
 ---
 tags:
   - taart
-  - bakrecept
   - desert
   - vega
+  - oven
 created: 
 author: 
 url: https://www.laurasbakery.nl/omas-appeltaart/

@@ -3,7 +3,7 @@ tags:
   - taart
   - desert
   - vega
-  - bakrecept
+  - oven
 created: 2021-09-01T19:25:39+00:00
 author: Miljuschka Witzenhausen
 url: https://miljuschka.nl/appeltaart-recept/
@@ -12,8 +12,7 @@ Bereidingstijd: 1 uur en 15 minuten
 
 Recept voor: 8 portie(s)
 
-![[Recepten/Afbeeldingen/Appeltaart-recept/Appeltaart-recept.jpg|500]]
-
+![[Recepten/Afbeeldingen/Appeltaart-recept/Appeltaart.jpg|500]]
 
 
 ### Ingredienten

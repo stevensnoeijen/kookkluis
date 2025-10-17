@@ -2,6 +2,8 @@
 tags:
   - hoofdgerecht
   - italiaans
+  - stoof
+  - risotto
 created: 2005-05-13
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R338050/risotto-met-erwten

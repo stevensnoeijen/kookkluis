@@ -1,6 +1,6 @@
 ---
 tags:
-  - eenpansgerecht
+  - eenpans
   - nederlands
   - pannenkoeken
   - vega
