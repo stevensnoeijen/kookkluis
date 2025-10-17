@@ -45,8 +45,7 @@ main_ingredient:
   - lam
   - vis
   - garnalen
-  - vegetarisch
-  - vegan
+  - vega
   - kaas
   - ei
   - groente
@@ -75,10 +74,7 @@ diet:
   - lactosevrij
   - koolhydraatarm
   - halal
-  - vegetarisch
-  # prefer 'vegetarisch' over 'vega' in new recipes
   - vega
-  - vegan
 
 spice_level:
   - mild
