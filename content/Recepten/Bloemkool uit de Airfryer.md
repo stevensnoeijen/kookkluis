@@ -21,7 +21,7 @@ Recept voor: 2-3 personen
 - Optioneel: geraspte kaas
 ### Instructies
 
-1. Snijd de bloemkool in roosjes.
+1. Snijd de bloemkool in middelgrote roosjes. Maak ze niet te klein, want dan kunnen ze verbranden. Zijn de roosjes toch kleiner? Verkort dan de baktijd met ongeveer 5 minuten.
 
 2. Plaats de roosjes in een airfryer-geschikte schaal of mandje.
 
