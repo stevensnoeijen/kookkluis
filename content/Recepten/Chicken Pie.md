@@ -31,8 +31,9 @@ Recept voor: 4 personen
 - 100 ml gevogelte fond (of 250 ml kippenbouillon)
 - 150 ml melk (niet nodig als je kippenbouillon gebruikt)
 - olijfolie of boter om in te bakken
--  peper
+- peper
 - ei
+
 ### Instructies
 
 1. Snijd de kipfilet in blokjes (niet te fijn) en bak dit in olie of boter even aan. 
