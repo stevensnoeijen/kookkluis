@@ -3,6 +3,7 @@ author: Wim van Gerwen
 tags:
   - koekje
   - receptenboek-bakker-meelmuts
+  - oven
 ---
 Dit is een heel fijn recept voor speculaasjes.
 Wij gebruiken z.g. Zeeuwsebloem. Dit is wittebloem van Nederlandse bodem, deze bloem heeft niet zo'n krachtige gluten, krijgt daardoor een drijvende bakaard wat nodig is voor de meeste koekjes.

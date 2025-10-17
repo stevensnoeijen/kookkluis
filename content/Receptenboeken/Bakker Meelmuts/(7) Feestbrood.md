@@ -3,6 +3,7 @@ author: Wim van Gerwen
 tags:
   - gebak
   - receptenboek-bakker-meelmuts
+  - oven
 ---
 Of een kramiek zoals zuiderburen het noemen, alleen maken wij het nog luxer. Met een zwaardere vulling van rozijnen en noten.
 

@@ -4,6 +4,7 @@ tags:
   - ovengerecht
   - hoofdgerecht
   - receptenboek-bakker-meelmuts
+  - oven
 ---
 Dit is een hartige taart met of zonder vlees en kan gemaakt worden met verschillende soorten groenten.
 

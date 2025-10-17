@@ -5,6 +5,7 @@ tags:
   - gebak
   - italiaans
   - receptenboek-bakker-meelmuts
+  - oven
 ---
 
 Tot de meest bekende Italiaanse kruiden behoort de oregano. Het is bij uitstek geschikte specerij voor het op smaak brengen van pizza's, minestronesoep e.d. Hier volgt het recept van deze hartige broodjes.

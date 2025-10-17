@@ -6,6 +6,8 @@ tags:
   - receptenboek-bakker-meelmuts
   - vega
   - varken
+  - snack
+  - oven
 ---
 Een typisch streekproduct dat bij de Brabantse koffietafel niet mag ontbreken. Oorspronkelijk werd er reuzel in het deeg gebruikt, maar margarine voldoet ook heel goed.
 

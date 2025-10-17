@@ -5,6 +5,8 @@ tags:
   - lunch
   - pasen
   - receptenboek-bakker-meelmuts
+  - snack
+  - oven
 ---
 ## Ingrediënten
 

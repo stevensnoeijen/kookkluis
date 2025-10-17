@@ -3,6 +3,7 @@ author: Wim van Gerwen
 tags:
   - taart
   - receptenboek-bakker-meelmuts
+  - oven
 ---
 Deze vlaai is betrekkelijk eenvoudig te maken en door de combinatie van zachte roomvulling en krokante boterkruimels een delicatesse.
 

@@ -5,6 +5,7 @@ tags:
 - snack
 - oven
 - voorgerecht
+- kerst
 created: 2025-10-17
 author: EtenmetNick
 url: https://youtu.be/u_jW3zTCVM0?si=IsAMYJ58Pw75Uqu3
@@ -56,7 +57,7 @@ Knapperige pasteitjes gevuld met romige kippenragout met prei, wortel en cheddar
 1. Verwarm de oven op crematiestandje 175 °C.
 2. Zeef de bloem in een grote kom. Voeg zout en 1/2 tl van de kruidenmix toe. Voeg de koude boter toe en wrijf de bloem door de boter tot het de textuur van paneermeel heeft.
 3. Voeg net genoeg ijswater toe tot het deeg bij elkaar komt. Vorm tot een schijf, wikkel in folie en laat minimaal 30 minuten koelen.
-4. Deeg gerust? Bestuif het werkblad met bloem en rol het deeg uit tot ca. 3 mm dik. Steek cirkels uit van ongeveer 12 cm. Leg de helft van de rondjes op een met bakpapier beklede bakplaat.
+4. Deeg gerust? Bestuif het werkblad met bloem en rol het deeg uit tot ca. 3 mm dik (rol beter to dun uit). Steek cirkels uit van ongeveer 12 cm. Leg de helft van de rondjes op een met bakpapier beklede bakplaat. Het moeten dus 10 x 2 = 20 cirkels worden. Rol de bovenkantjes nog wat uit zodat deze goed over de vullen
 5. Schep wat van de vulling op de rondjes op de bakplaat en houd aan de randen wat ruimte vrij.
 6. Leg op elk gevuld rondje een tweede deegcirkel en druk de randen aan met een vork. Bestrijk met wat slagroom of ei. Bak 25 minuten (of tot goudbruin). Haal uit de oven en laat 5–10 minuten afkoelen.
 
