@@ -1,0 +1,71 @@
+---
+name: Create Recipe
+description: Create a new recipe in content/Recepten using recipe_template_v1.md, filling data from chat or a provided link.
+alwaysApply: false
+---
+
+## Goal
+Create a complete recipe markdown file in `content/Recepten` using the template at `content/templates/recipe_template_v1.md`. Populate all template variables from details given in the chat, or extract them from a link provided in the conversation.
+
+## Trigger
+- When the user asks to add/write/create a recipe.
+- Or when the user provides a recipe (directly in chat or via a link) and asks to save it.
+
+## Output location and filename
+- Save to: `content/Recepten/<Title>.md`
+- Use the recipe title for `<Title>` as written by the user (retain spaces and punctuation used elsewhere in this repository).
+
+## Template to use
+- Base file: `content/templates/recipe_template_v1.md`
+- Do not change headings in the template (Dutch labels must remain as-is).
+
+## Data mapping (required fields)
+Collect and map these fields into the template variables:
+
+- Frontmatter
+  - `tags`: array of strings (e.g., ["diner", "Aziatisch"]). If unspecified, leave empty array or omit.
+  - `created`: ISO date string `YYYY-MM-DD`. If missing, use today's date (project timezone).
+  - `author`: string. If missing, prefer repository owner or the user who provided the recipe; otherwise leave blank.
+  - `url`: source URL if the recipe was provided via a link; otherwise leave blank.
+
+- Body variables
+  - `cookTime`: total active + passive time if available; otherwise active cook time. Accept formats like `PT45M`, or a human string like `45 min`. Prefer a human string.
+  - `recipeYield`: number of servings/portion description (e.g., `4 personen`).
+  - `image`: filename under `content/Recepten/Afbeeldingen` if available; otherwise omit the image line. If a URL image is provided, download or reference the URL as-is.
+  - `description`: 1–3 sentences summarizing the dish and important notes.
+  - `recipeIngredient`: array of strings, one per ingredient line. Preserve given quantities and units.
+  - `recipeInstructions`: steps. If the recipe has sections, structure as an array of sections with `name` and `itemListElement` of step texts. Otherwise, provide a flat array of step texts.
+
+## Parsing from link (if URL is provided)
+1. Fetch the page and extract title, description, image, servings, time, ingredients, and instructions.
+2. Normalize lists: remove numbering from ingredients; keep numbering for instructions in the final render via the template.
+3. Preserve original order and section grouping when present.
+
+## File creation steps
+1. Confirm or infer: title, tags, created, author, url, cookTime, recipeYield, image, description, ingredients, instructions.
+2. Create `content/Recepten/<Title>.md` using `content/templates/recipe_template_v1.md`.
+3. Fill template placeholders precisely:
+   - `{{magicTime cookTime}}` → human-readable cook time string.
+   - `{{recipeYield}}` → servings text.
+   - `{{image}}` → image filename or URL (omit the line if no image).
+   - `{{{description}}}` → short description (allow basic markdown).
+   - `{{#each recipeIngredient}}` → one bullet per ingredient string.
+   - `{{#each recipeInstructions}}` →
+     - If an item has `itemListElement`, treat it as a section `{ name, itemListElement: [ { text }, ... ] }`.
+     - Else, treat it as a simple step string.
+
+## Quality and formatting rules
+- Write all recipe content in Dutch. If the source is not Dutch, translate faithfully.
+- Keep existing template headings in Dutch: `### Ingredienten`, `### Instructies`, `## Aantekeningen`.
+- Preserve user-provided punctuation, units, and capitalization.
+- Do not add explanatory comments into the recipe file beyond the template’s structure.
+- Use UTF-8 and keep line endings consistent with the repo.
+
+## Example fill (structure only; not a literal snippet)
+- Frontmatter keys: `tags`, `created`, `author`, `url`.
+- Body fields mapped as above; sections appear as `#### <Section Name>` rendered by the template.
+
+## If data is incomplete
+- Ask concise follow-up questions in chat for the missing critical fields: title, ingredients, and instructions.
+- For optional fields (image, tags, url, description, cookTime, recipeYield), proceed without them if not available.
+
