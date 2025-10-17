@@ -27,7 +27,7 @@ Recept voor: 3 personen
 - 1 el tomatenpuree
 - 250 gr tomatenblokjes
 - 2 tl paprikapoeder
-- 1 tl karwijzaad
+- 1 tl karwijzaad (of 0.5 tl komijnzaad)
 - 1  laurierblaadje
 - Snufje peper en zout
 
