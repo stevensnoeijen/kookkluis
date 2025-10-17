@@ -20,20 +20,20 @@ Create a complete recipe markdown file in `content/Recepten` using the template 
 - Do not change headings in the template (Dutch labels must remain as-is).
 
 ## Data mapping (required fields)
-Collect and map these fields into the template variables:
+Collect and map these fields using Obsidian-style YAML frontmatter for properties, and keep only ingredients/instructions in the body.
 
-- Frontmatter
-  - `tags`: array of strings (e.g., ["diner", "Aziatisch"]). If unspecified, leave empty array or omit.
+- Frontmatter (Obsidian properties)
+  - `tags`: YAML list (one per line). If unspecified, leave empty or omit.
   - `created`: ISO date string `YYYY-MM-DD`. If missing, use today's date (project timezone).
   - `author`: string. If missing, prefer repository owner or the user who provided the recipe; otherwise leave blank.
   - `url`: source URL if the recipe was provided via a link; otherwise leave blank.
+  - `cookTime`: total active + passive time if available; otherwise active cook time. Prefer a human string like `ca. 45 min`.
+  - `recipeYield`: servings/portion text (e.g., `4 personen`).
+  - `image`: filename under `content/Recepten/Afbeeldingen` or a URL.
+  - `description`: 1–3 sentences summarizing the dish.
 
-- Body variables
-  - `cookTime`: total active + passive time if available; otherwise active cook time. Accept formats like `PT45M`, or a human string like `45 min`. Prefer a human string.
-  - `recipeYield`: number of servings/portion description (e.g., `4 personen`).
-  - `image`: filename under `content/Recepten/Afbeeldingen` if available; otherwise omit the image line. If a URL image is provided, download or reference the URL as-is.
-  - `description`: 1–3 sentences summarizing the dish and important notes.
-  - `recipeIngredient`: array of strings, one per ingredient line. Preserve given quantities and units.
+- Body content
+  - `recipeIngredient`: array of strings, one per ingredient line. Preserve given quantities and units. Group with optional `####` subkoppen (bijv. `Vulling`, `Deeg`).
   - `recipeInstructions`: steps. If the recipe has sections, structure as an array of sections with `name` and `itemListElement` of step texts. Otherwise, provide a flat array of step texts.
 
 ## Parsing from link (if URL is provided)
@@ -43,16 +43,15 @@ Collect and map these fields into the template variables:
 
 ## File creation steps
 1. Confirm or infer: title, tags, created, author, url, cookTime, recipeYield, image, description, ingredients, instructions.
-2. Create `content/Recepten/<Title>.md` using `content/templates/recipe_template_v1.md`.
-3. Fill template placeholders precisely:
-   - `{{magicTime cookTime}}` → human-readable cook time string.
-   - `{{recipeYield}}` → servings text.
-   - `{{image}}` → image filename or URL (omit the line if no image).
-   - `{{{description}}}` → short description (allow basic markdown).
-   - `{{#each recipeIngredient}}` → one bullet per ingredient string.
-   - `{{#each recipeInstructions}}` →
-     - If an item has `itemListElement`, treat it as a section `{ name, itemListElement: [ { text }, ... ] }`.
-     - Else, treat it as a simple step string.
+2. Create `content/Recepten/<Title>.md` using `content/templates/recipe_template_v1.md` as a starting point.
+3. Convert to Obsidian properties:
+   - Move `cookTime`, `recipeYield`, `image`, and `description` into the YAML frontmatter (above `---`).
+   - Represent `tags` as a YAML list (one per line).
+   - Remove the body lines that duplicate these properties (the lines beginning with `Bereidingstijd:`, `Recept voor:`, the image embed, and the description paragraph directly under them).
+4. Keep body sections and headings in Dutch. Populate ingredients and instructions:
+   - Under `### Ingredienten`, optionally split into `####` subkoppen (bijv. `Vulling`, `Deeg`).
+   - Under `### Instructies`, keep numbered steps; use `####` subkoppen for sections when needed.
+5. For images placed in the vault, prefer relative Obsidian embeds like `![[<bestandsnaam>|500]]`. Ensure the filename matches the file saved under `content/Recepten/Afbeeldingen/`.
 
 ## Quality and formatting rules
 - Write all recipe content in Dutch. If the source is not Dutch, translate faithfully.
@@ -60,6 +59,7 @@ Collect and map these fields into the template variables:
 - Preserve user-provided punctuation, units, and capitalization.
 - Do not add explanatory comments into the recipe file beyond the template’s structure.
 - Use UTF-8 and keep line endings consistent with the repo.
+- When assigning tags, prefer values from `.cursor/data/recipe_tags.yaml` (merge multiple relevant groups: course, cuisine, main_ingredient, method, diet, occasion, misc). Keep tags lowercase.
 
 ## Example fill (structure only; not a literal snippet)
 - Frontmatter keys: `tags`, `created`, `author`, `url`.

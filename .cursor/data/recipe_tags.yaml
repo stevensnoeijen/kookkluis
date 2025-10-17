@@ -1,0 +1,114 @@
+# Central list of recommended tags for recipes (Obsidian YAML frontmatter)
+# Use these as suggestions when creating new recipes. Keep tags lowercase.
+
+course:
+  - ontbijt
+  - brunch
+  - lunch
+  - diner
+  - snack
+  - borrel
+  - dessert
+  - soep
+  - maaltijdsoep
+  - voorgerecht
+  - hoofdgerecht
+  - salade
+  - brood
+  - gebak
+  - saus
+
+cuisine:
+  - nederlands
+  - frans
+  - italiaans
+  - grieks
+  - turks
+  - engels
+  - aziatisch
+  - indiaas
+  - indisch
+  - indonesisch
+  - surinaams
+  - mexicaans
+  - marokkaans
+  - hawaiiaans
+  - midden-oosters
+  - hongaars
+  - iers
+  - amerikaans
+
+main_ingredient:
+  - kip
+  - rund
+  - varken
+  - lam
+  - vis
+  - garnalen
+  - vegetarisch
+  - vegan
+  - kaas
+  - ei
+  - groente
+  - peulvruchten
+  - pasta
+  - rijst
+  - bulgur
+  - aardappel
+  - zuurdesem
+
+method:
+  - oven
+  - ovengerecht
+  - airfryer
+  - bbq
+  - wok
+  - eenpans
+  - stoof
+  - bakken
+  - bakrecept
+  - koken
+  - roosteren
+
+diet:
+  - glutenvrij
+  - lactosevrij
+  - koolhydraatarm
+  - halal
+  - vegetarisch
+  # prefer 'vegetarisch' over 'vega' in new recipes
+  - vega
+  - vegan
+
+spice_level:
+  - mild
+  - pittig
+
+appliance:
+  - slowcooker
+  - instantpot
+  - blender
+
+occasion:
+  - doordeweeks
+  - feestdagen
+  - mealprep
+  - buffet
+
+misc:
+  - snel
+  - budget
+  - comfortfood
+  - klassieker
+  - kidsproof
+  - zomers
+  - winters
+  - wrap
+  - wraptaart
+  - tajine
+  - bami
+  - pita
+  - risotto
+  - stamppot
+  - kruiden
+
