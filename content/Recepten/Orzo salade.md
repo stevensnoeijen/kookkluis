@@ -3,6 +3,7 @@ tags:
   - salade
   - maaltijdsalade
   - hoofdgerecht
+  - hartig
 created: 2022-06-23
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1195572/salade-van-orzo-ricotta-spinazie-en-prosciutto

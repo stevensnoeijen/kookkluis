@@ -5,6 +5,7 @@ tags:
   - pannenkoeken
   - vega
   - hoofdgerecht
+  - hartig
 created: 2022-08-25T13:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/

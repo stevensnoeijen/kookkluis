@@ -3,6 +3,7 @@ tags:
   - groente
   - kfc
   - vega
+  - hartig
 created: 
 author: Smulweb
 url: https://www.jumbo.com/nl-be/recepten/kfc-koolsla-1373248-7

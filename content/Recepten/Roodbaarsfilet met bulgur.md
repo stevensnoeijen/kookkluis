@@ -4,6 +4,7 @@ tags:
   - bulgur
   - vis
   - wok
+  - hartig
 created: 2017-09-22T14:09:22+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/roodbaarsfilet-met-bulgur-en-yoghurtdressing-59c519922c9e860d90771fcc

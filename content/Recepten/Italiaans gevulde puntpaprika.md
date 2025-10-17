@@ -4,6 +4,7 @@ tags:
   - paprika
   - hoofdgerecht
   - oven
+  - hartig
 created: 2015-05-30T09:13:48+02:00
 author: Sandra Waterschoot
 url: https://www.leukerecepten.nl/recepten/italiaans-gevulde-puntpaprika/

@@ -5,6 +5,7 @@ tags:
   - uienchutney
   - hoofdgerecht
   - oven
+  - hartig
 created: 2022-01-27T16:13:32+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/pita-met-sticky-pulled-chicken-61f2c4ac60928f639d22208a

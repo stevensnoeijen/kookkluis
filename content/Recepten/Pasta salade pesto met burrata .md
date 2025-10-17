@@ -4,6 +4,7 @@ tags:
   - salade
   - vega
   - maaltijdsalade
+  - hartig
 created: 2021-07-02
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1195334/pastasalade-pesto-met-burrata

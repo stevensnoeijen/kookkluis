@@ -3,6 +3,7 @@ tags:
   - hongaars
   - vega
   - hoofdgerecht
+  - hartig
 created: 
 author: 
 url: https://binnenstebuiten.kro-ncrv.nl/recepten/vegetarische-goulash-met-linzen

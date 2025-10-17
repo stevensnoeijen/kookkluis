@@ -2,6 +2,7 @@
 tags:
   - mexicaans
   - kruiden
+  - hartig
 created: 
 author: 
 url: https://www.lekkerensimpel.com/hoe-maak-je-een-mexicaanse-kruidenmix/

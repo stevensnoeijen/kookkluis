@@ -4,6 +4,7 @@ tags:
   - maaltijdsoep
   - hoofdgerecht
   - vega
+  - hartig
 created: 2018-10-10T09:08:15+02:00
 author: Sandra Waterschoot
 url: https://www.leukerecepten.nl/recepten/broccolisoep-recept/

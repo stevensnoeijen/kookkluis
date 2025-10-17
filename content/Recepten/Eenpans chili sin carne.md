@@ -6,6 +6,7 @@ tags:
   - hoofdgerecht
   - oven
   - eenpans
+  - hartig
 created: 2024-07-29T06:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/eenpans-chili-con-carne-met-rijst

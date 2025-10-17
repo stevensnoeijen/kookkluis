@@ -3,6 +3,7 @@ tags:
   - indisch
   - stoof
   - hoofdgerecht
+  - hartig
 created: 2022-01-23T06:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/indisch-stoofvlees/

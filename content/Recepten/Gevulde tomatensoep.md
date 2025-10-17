@@ -3,6 +3,7 @@ tags:
   - maaltijdsoep
   - soep
   - hoofdgerecht
+  - hartig
 created: 
 author: Bistro de molen
 url:

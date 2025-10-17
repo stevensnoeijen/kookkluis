@@ -1,6 +1,7 @@
 ---
 tags:
   - hoofdgerecht
+  - hartig
 created: 
 author: Chloë
 url:

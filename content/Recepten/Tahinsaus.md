@@ -2,6 +2,7 @@
 tags:
   - saus
   - midden-oosters
+  - hartig
 created: 
 author: Smulweb
 url: https://www.jumbo.com/recepten/tahinsaus-1126793-7

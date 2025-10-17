@@ -2,6 +2,7 @@
 tags:
   - kruiden
   - janpans
+  - hartig
 created: 2023-02-24
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1198217/gomasio

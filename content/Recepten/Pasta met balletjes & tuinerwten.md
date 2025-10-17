@@ -2,6 +2,7 @@
 tags:
   - vega
   - hoofdgerecht
+  - hartig
 created: 2017-07-07
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1187547/pasta-met-gehaktballetjes-en-tuinerwten

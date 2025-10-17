@@ -3,6 +3,7 @@ tags:
   - hoofdgerecht
   - stamppot
   - vis
+  - hartig
 created: 
 author: Jumbo verspakket
 url:

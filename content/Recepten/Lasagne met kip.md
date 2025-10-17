@@ -2,6 +2,7 @@
 tags:
   - oven
   - hoofdgerecht
+  - hartig
 created: 
 author: 
 url: https://www.lekkerensimpel.com/lasagne-met-kip/

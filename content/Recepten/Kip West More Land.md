@@ -3,6 +3,7 @@ tags:
   - hoofdgerecht
   - kip
   - oven
+  - hartig
 created: 
 author: Taverne de oude munt Weert
 url:

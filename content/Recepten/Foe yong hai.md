@@ -2,6 +2,7 @@
 tags:
   - hoofdgerecht
   - chinees
+  - hartig
 created: 
 author: Smulweb
 url: https://www.jumbo.com/recepten/foe-yong-hai-1423644-7

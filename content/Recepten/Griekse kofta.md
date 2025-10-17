@@ -2,6 +2,7 @@
 tags:
   - grieks
   - hoofdgerecht
+  - hartig
 created: 2017-01-05T21:14:30+00:00
 author: Arjan van Griekipedia
 url: https://www.griekipedia.nl/recepten/griekse-gehaktballetjes-tomatensaus-soutzoukakia-recept/

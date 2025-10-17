@@ -3,6 +3,7 @@ tags:
   - hoofdgerecht
   - midden-oosters
   - oven
+  - hartig
 created: 2022-01-27T16:13:52+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/gepaneerde-kippendij-met-midden-oosterse-kruiden-61f2c4c000045f77c8296c3f

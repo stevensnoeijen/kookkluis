@@ -3,6 +3,7 @@ tags:
   - indisch
   - groente
   - vega
+  - hartig
 created: 
 author: Smulweb
 url: https://www.jumbo.com/recepten/pittige-indonesische-snijbonen-1423838-7

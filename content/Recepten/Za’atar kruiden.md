@@ -1,6 +1,7 @@
 ---
 tags:
   - kruiden
+  - hartig
 created: 
 author: 
 url: https://keukenkruiden.eu/zaatar-maken/

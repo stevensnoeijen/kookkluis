@@ -2,6 +2,7 @@
 tags:
   - hoofdgerecht
   - salade
+  - hartig
 created: 
 author: 
 url: https://www.ah.nl/allerhande/recept/R-R1187324/pastasalade-met-zalm-en-pestospread

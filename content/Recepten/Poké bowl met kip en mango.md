@@ -2,6 +2,7 @@
 tags:
   - hawaiians
   - kip
+  - hartig
 created: 2020-06-08T12:53:08+00:00
 author: 
 url: https://beaufood.nl/poke-bowl-met-gebakken-kip-en-mango/

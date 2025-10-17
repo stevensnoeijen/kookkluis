@@ -3,6 +3,7 @@ tags:
   - hongaars
   - eenpans
   - hoofdgerecht
+  - hartig
 created:
 author: Smulweb - Rudolph van Veen
 url: https://www.jumbo.com/recepten/hongaarse-goulash-van-rudolph-van-veen-1374394-7

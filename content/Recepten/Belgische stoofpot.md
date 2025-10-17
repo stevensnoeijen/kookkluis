@@ -3,6 +3,7 @@ tags:
   - belgisch
   - stoof
   - hoofdgerecht
+  - hartig
 created: 2018-11-16
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1191558/belgische-stoofpot-met-bruin-bier-wortel-en-pastinaak

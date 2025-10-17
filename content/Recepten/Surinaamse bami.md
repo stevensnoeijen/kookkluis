@@ -4,6 +4,7 @@ tags:
   - bami
   - hoofdgerecht
   - kip
+  - hartig
 created: 2021-01-26
 author: Lekker en Simpel
 url: https://www.lekkerensimpel.com/surinaamse-bami-met-kip/

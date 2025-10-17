@@ -5,6 +5,7 @@ tags:
   - pannenkoeken
   - vega
   - lunch
+  - hartig
 created: 2017-01-05T21:14:30+00:00
 author: 
 url: https://www.ilovehealth.nl/recepten-2/havermout-pannenkoeken-heerlijk-healthy/

@@ -4,6 +4,7 @@ tags:
   - hoofdgerecht
   - wok
   - stoof
+  - hartig
 created: 2020-07-08T06:00:00+02:00
 author: SmaakMenutie
 url: https://smaakmenutie.nl/rendang-van-kip/

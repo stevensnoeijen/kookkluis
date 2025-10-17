@@ -3,6 +3,7 @@ tags:
   - vega
   - midden-oosters
   - hoofdgerecht
+  - hartig
 created: 2022-02-25T07:55:02+01:00
 author: Sandra Waterschoot
 url: https://www.leukerecepten.nl/recepten/shakshuka/

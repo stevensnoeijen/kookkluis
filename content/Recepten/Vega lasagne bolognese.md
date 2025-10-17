@@ -4,6 +4,7 @@ tags:
   - hoofdgerecht
   - italiaans
   - vega
+  - hartig
 created: 2021-02-05
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1194911/vega-lasagne-bolognese

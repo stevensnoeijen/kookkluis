@@ -2,6 +2,7 @@
 tags:
   - kruiden
   - midden-oosters
+  - hartig
 created: 2023-03-31 06:00:49
 author: Mariette van Tuyl
 url: https://www.zoetrecepten.nl/recept/baharat-kruidenmix-midden-oosterse-kruiden/

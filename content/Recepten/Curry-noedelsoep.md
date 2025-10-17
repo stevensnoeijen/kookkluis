@@ -3,6 +3,7 @@ tags:
   - hoofdgerecht
   - maaltijdsoep
   - vega
+  - hartig
 created: 2021-01-27T13:02:56+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/curry-noedelsoep-met-kokosmelk-601164803bf8650a195649ad

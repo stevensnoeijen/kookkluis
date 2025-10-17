@@ -4,6 +4,7 @@ tags:
   - hoofdgerecht
   - vega
   - oven
+  - hartig
 created: 2022-03-23T13:31:05+00:00
 author: 
 url: https://www.hellofresh.nl/recipes/crispy-bang-bang-bloemkool-met-knoflookrijst-623b2119f8c6884e691fc1bf

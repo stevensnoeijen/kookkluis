@@ -3,6 +3,7 @@ tags:
   - indiaas
   - curry
   - hoofdgerecht
+  - hartig
 created: 2007-09-21
 author: Gordon Ramsay
 url: https://www.food.com/recipe/gordon-ramsays-malaysian-chicken-curry-254495

@@ -6,6 +6,7 @@ tags:
   - hoofdgerecht
   - vega
   - oven
+  - hartig
 created: 
 author: 
 url: https://www.dewereldopjebord.nl/loubia-marokkaans-bonenstoofpotje/

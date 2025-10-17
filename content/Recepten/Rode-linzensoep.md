@@ -4,6 +4,7 @@ tags:
   - hoofdgerecht
   - soep
   - vega
+  - hartig
 created: 2021-08-27
 author: Albert Heijn
 url: https://www.ah.nl/allerhande/recept/R-R1195528/rode-linzensoep-met-zoete-aardappel-van-kookmutsjes

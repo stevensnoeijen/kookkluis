@@ -2,6 +2,7 @@
 tags:
   - kruiden
   - italiaans
+  - hartig
 created: 
 author: 
 url: https://www.lekkerensimpel.com/kruidenmix-voor-italiaanse-kruiden/

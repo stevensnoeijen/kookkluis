@@ -3,6 +3,7 @@ tags:
   - maaltijdsoep
   - hongaars
   - hoofdgerecht
+  - hartig
 created: 2021-11-26T13:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/goulashsoep/
