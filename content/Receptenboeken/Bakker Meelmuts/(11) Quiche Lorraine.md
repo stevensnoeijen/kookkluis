@@ -1,7 +1,6 @@
 ---
 author: Wim van Gerwen
 tags:
-  - ovengerecht
   - hoofdgerecht
   - receptenboek-bakker-meelmuts
   - oven
