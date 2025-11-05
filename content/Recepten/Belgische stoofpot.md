@@ -20,7 +20,7 @@ Recept voor: 4
 - 700 g runder sukadelappen
 - 1 el tarwebloem
 - 30 g ongezouten roomboter
-- 30 ml Leffe bruin
+- 300 ml bruin bier
 - 1 runderbouillontablet
 - 200 ml kraanwater
 - 2 el dijonmosterd

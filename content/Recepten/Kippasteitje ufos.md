@@ -39,7 +39,7 @@ Knapperige pasteitjes gevuld met romige kippenragout met prei, wortel en cheddar
 - 250 gr bloem
 - 1/2 tl zout
 - 1/2 tl van de kruidenmix (van de vulling)
-- 6 el koude ongezouten boter
+- 90 gr koude ongezouten boter
 - 80 ml ijswater
 
 ### Instructies
