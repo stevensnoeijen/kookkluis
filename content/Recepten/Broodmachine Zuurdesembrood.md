@@ -17,8 +17,10 @@ Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige pla
 
 - 237ml water (warm)
 - 115 ml [[Zuurdesem starter]] (niet te vloeibaar)
-- 4 el / 60 ml plantaardige olie of ongezouten boter
-- 300 gr tarwemeel (kan hierbij ook een deel meel doen, 50gr)
+- 4 el / 60 ml plantaardige olie of ongezouten boter (minder word het brood droger van)
+- 300 gr tarwebloem
+	- je kan hier ook evt nog 25gr meel bij doen
+	- en/of 15gr broodkruimels
 - 13 gr kristalsuiker
 - 6 gr zout
 - 3.6 gr gist
@@ -36,6 +38,7 @@ Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige pla
 
 6. **Instellingen:** Voer de juiste instellingen in: **Wit Brood** programma (P1), **Lichte korst** (lichte korst), en **750 gr** gewicht. Dit programma duurt 3:15 bij mij.
    Druk op de 'start'-knop.
+   Controleer of de verhouding goed is in de eerste 10min, anders meer bloem of water toevoegen.
 
 7. **Na het Bakken:** Haal de broodpan eruit en verwijder het brood onmiddellijk uit de pan. Gebruik **ovenwanten**, want de pan zal erg heet zijn!
 
