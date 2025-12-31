@@ -35,3 +35,5 @@ Plan het voeden een dag voordat je een er iets mee wilt bakken, dan is hij goeg 
 -----
 
 ## Aantekeningen
+
+Indien je te veel starter over hebt maak er bijv [[Pannenkoeken met desem]] van of kijk in de andere #zuurdesem recepten.
