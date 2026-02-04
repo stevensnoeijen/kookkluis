@@ -17,18 +17,18 @@ Recept voor: 4 personen
 
 ### Ingredienten
 
-- 700 g kipdijfilet
-- 300 ml kokosmelk
-- 4 sjalotten or uien
-- 4 tenen knoflook
-- 3 kruidnagels
-- 3 rode pepers (of meer)
-- 2 salam blad (Indisch laurier)
-- 1 el ketjap manis
-- 2 tl koriander
-- 2 tl kristalsuiker
-- 1 tl gemalen laos
-- 1 tl kurkuma
+- 350 g kipdijfilet
+- 150 ml kokosmelk
+- 2 sjalotten of uien
+- 2 tenen knoflook
+- 0,5 tl kruidnagelpoeder
+- 1 rode peper
+- 1 salam blad of laurier
+- 0,5 el ketjap manis
+- 1 tl koriander
+- 1 tl kristalsuiker
+- 0,5 tl gemalen laos
+- 0,5 tl kurkuma
 
 ### Instructies
 
