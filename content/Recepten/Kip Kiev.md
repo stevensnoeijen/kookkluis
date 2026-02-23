@@ -9,7 +9,7 @@ Bereidingstijd: **Voorbereiding:** 30 min | **Bereiding:** 30 min | **Wachttijd:
 
 Recept voor: 2 personen
 
-![[Pasted image 20260223191852.png|500]]
+![[Kip Kiev.png|500]]
 
 Een klassiek en retro gerecht dat nog steeds ongekend populair is: malse kipfilet gevuld met een heerlijke, vloeibare knoflookboter, omhuld met een goudbruin en knapperig korstje van Panko. Het geheim van dit recept is het gedeeltelijk invriezen van de kip, waardoor de boter tijdens het bakken netjes binnenin blijft.
 ### Ingredienten
