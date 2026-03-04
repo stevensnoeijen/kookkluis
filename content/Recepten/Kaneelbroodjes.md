@@ -16,12 +16,12 @@ Recept voor: 9 grote kaneelbroodjes
 ### Ingredienten
 
 **Voor het deeg:**
-- 60 ml warme melk (volle melk of halfvolle melk) (circa 50°C)
+- 175 ml warme melk (volle melk of halfvolle melk) (circa 50°C)
 - 2 theelepels instant gist of actieve gist (1 zakje van 7 gram)
 - 50 gram kristalsuiker
 - 1 ei + 1 eidooier (kamertemperatuur)
 - 57 gram ongezouten boter, gesmolten
-- 400 gram broodmeel (plus extra voor bestuiven)
+- 400 gram bloem (plus extra voor bestuiven)
 - 3/4 theelepel zout
 
 **Voor de vulling:**
@@ -37,7 +37,7 @@ Recept voor: 9 grote kaneelbroodjes
 
 ### Instructies
 
-1. **Maak het deeg:** Verwarm de melk tot ongeveer 50°C (door het te plaatsen in de magnatron). Doe de warme melk in de kom van een keukenmixer en strooi de gist eroverheen. Voeg suiker, ei, eidooier en gesmolten boter toe. Meng goed door elkaar. Roer vervolgens met een houten lepel de bloem en het zout erdoor totdat een deeg begint te vormen.
+1. **Maak het deeg:** Verwarm de melk tot ongeveer een lauwe tempratuur, max 40 graden (door het te plaatsen in de magnatron). Doe de warme melk in de kom van een keukenmixer en strooi de gist eroverheen. Voeg suiker, ei, eidooier en gesmolten boter toe. Meng goed door elkaar. Roer vervolgens met een houten lepel de bloem en het zout erdoor totdat een deeg begint te vormen.
 
 2. **Kneed het deeg:** Gebruik de deeghaak van de keukenmixer en kneed het deeg op middelhoge snelheid gedurende 8 minuten. Het deeg moet een samenhangende bal vormen en licht plakkerig zijn. Als het te plakkerig is, voeg dan 2 eetlepels extra bloem toe. Als je geen keukenmixer gebruikt, kun je het deeg met de hand 8-10 minuten kneden op een met bloem bestoven werkblad.
     
