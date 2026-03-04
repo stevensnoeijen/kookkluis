@@ -11,32 +11,32 @@ created: 2024-07-29T06:00:00+00:00
 author: 
 url: https://www.lekkerensimpel.com/eenpans-chili-con-carne-met-rijst
 ---
-Bereidingstijd: 35min
+Bereidingstijd: 1 uur (30 min voorbereidingen, 30 min koken)
 
-Recept voor: 2 personen
+Recept voor: 6 personen
 
 ![[Recepten/Afbeeldingen/Eenpans-chili-con-carne/Eenpans-chili-con-carne.jpg|500]]
 
 ### Ingredienten
 
-- 200 gr vega gehakt
-- 1 ui
-- 1,5 tenen knoflook
-- optioneel: 1 paprika
-- optioneel: 70 gr mais
-- 130 gr kidneybonen
-- 130 gr bruine bonen
-- 45 gr tomatenpuree
-- 270 ml tomatenblokjes
-- 2/3 bouillonblokje rund of groenten
-- 165 ml water
-- 130 gr snelkookrijst
+- 400 gr vega gehakt
+- 2 grote uien
+- 4 tenen knoflook
+- optioneel: 2 paprika
+- optioneel: 140 gr mais
+- 400 gr kidneybonen
+- 400 gr bruine bonen
+- 140 gr tomatenpuree
+- 800 ml tomatenblokjes (2 blikken)
+- bouillonblokje rund of groenten voor 1 liter
+- 500 ml water
+- 400 gr snelkookrijst
 - geraspte kaas
-- evt 1 bosui
-- 2 tl paprikapoeder
-- 1 tl komijnpoeder
+- evt 2 bosui
+- 4 tl paprikapoeder
+- 2 tl komijnpoeder
 - snuf chili
-- 1/2 tl kaneel
+- 1 tl kaneel
 - zout en peper
 
 ### Instructies
