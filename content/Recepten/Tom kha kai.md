@@ -14,7 +14,7 @@ Recept voor: 2 personen
 
 ![[Pasted image 20250916213631.png|500]]
 
-Een heerlijke en snelle Thaise kokossoep met kip, groenten en mihoen, perfect voor een doordeweekse maaltijd.
+Een heerlijke en snelle Thaise kokossoep met kip, groenten en mihoen.
 ### Ingredienten
 
 - 150 g gesneden blokjes kipfilet
@@ -23,6 +23,7 @@ Een heerlijke en snelle Thaise kokossoep met kip, groenten en mihoen, perfect vo
 - 350 g Thaise wokgroenten
 - sambal
 - 1 ui
+- circa 60g mihoen (een blok)
 
 ### Instructies
 
