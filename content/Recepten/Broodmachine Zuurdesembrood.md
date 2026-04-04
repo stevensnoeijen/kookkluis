@@ -15,9 +15,9 @@ Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige pla
 
 ### Ingredienten
 
-- 237ml water (koud)
-- 115 ml [[Zuurdesem starter]] (niet te vloeibaar)
-- 4 el / 60 ml plantaardige olie of ongezouten boter (minder word het brood droger van)
+- 230ml water (koud)
+- 115 ml [[Zuurdesem starter]] (dik, anders meer bloem toevoegen)
+- 40 ml plantaardige olie of ongezouten boter (minder word het brood droger van)
 - 350 gr tarwebloem
 	- je kan hier ook evt nog 25gr meel bij doen
 	- en/of 15gr broodkruimels
@@ -49,3 +49,5 @@ Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige pla
 -----
 
 ## Aantekeningen
+
+Zorg dat je zuurdesemstarter niet over zijn piek heen is wanneer je hem gebruikt. Mijn methode: gebruik precies genoeg starter voor je eerste brood en voer de rest direct weer bij voor je volgende baksel. Dit sluit perfect aan op een bakprogramma van 3 uur.
