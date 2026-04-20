@@ -25,7 +25,7 @@ Een klassieke mix van gebakken rijst met een rijke variatie aan groenten. In dez
 - **Sjalotjes, knoflook en bosui**: naar smaak
 - **Lichte sojasaus**: 2-3 el
 - **MSG**: 1 tl
-- **Vegetarische oestersaus**: 1 el (of paddenstoelensaus/ketjap/worchestersaus)
+- **Vegetarische oestersaus**: 1 el (ketjap + worchestersaus + honing/suiker)
 - **Witte peper**: naar smaak
 ### Instructies
 
