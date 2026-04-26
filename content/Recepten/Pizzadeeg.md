@@ -8,42 +8,45 @@ created:
 author: 
 url:
 ---
-Bereidingstijd: 1 uur rijzen en 15 minuten bakken
+Een professioneel recept voor authentiek pizzadeeg. Dit recept gaat uit van een hydratatie van 60% en een lange rijpingstijd voor een luchtig en goed verteerbaar resultaat.
 
-Recept voor: 3 bodems
+Bereidingstijd
+- **Kneden:** 15-20 minuten
+- **Eerste rijzing:** 30 minuten
+- **Tweede rijzing:** 8 uur op kamertemperatuur of 24-72 uur in de koeling.
 ### Ingredienten
 
-- 500 g bloem (bij voorkeur Italiaanse bloem type 00)
-- Semolina (durum bloem) voor het uitrollen
-- 7 g gedroogde gist
-- 10 g zout
-- 1 tl suiker
-- 275-300 ml lauwwarm water
-- 2 el olijfolie
-- pizza saus en toppings
+Voor 7 bollen (circa ~230gr stuk)
+
+- 1000 gr **Bloem/meel** (100%)
+- 1 gr **Droge gist** (0,1% - 0,2% in de winter)
+- 600 gr **Water** (60%)
+- 22 gr **Zout** (2,2%)
+- 20 gr **Olijfolie** (2%)
+- 15 gr **Zuurdesem starter** (optioneel, 1,5%)
 
 ### Instructies
 
-**Bereiding van het deeg**
-1. Giet het lauwwarme water in de kneedbak van je broodbakmachine.    
-2. Voeg het zout en de suiker toe aan het water.
-3. Doe de bloem in de mengkom.
-4. Strooi de gist over de bloem of plaats deze in het gistbakje van de broodbakmachine.
-5. Start het gekozen programma van de broodbakmachine.
-6. Voeg eventueel de olijfolie toe in een hoekje van de mengkom.
-7. Laat het deeg 1 uur rijzen.
-
-**Pizza bakken**
-1. Verwarm de oven voor op 250 °C.
-	1. Gebruik bij voorkeur een pizzasteen.
-	2. Heb je geen pizzasteen? Verwarm dan een bakplaat mee in de oven.
-2. Bestrooi het werkblad met semolina of bloem.
-3. Verdeel het deeg in drie gelijke porties en vorm bolletjes.
-4. Druk elk bolletje met je handen uit tot een cirkel van ongeveer 30 cm.
-5. Leg het deeg op een (snij)plank met voldoende semolina of bloem eronder.
-6. Beleg de pizzabodem met saus en toppings naar keuze.
-7. Bak de pizza 10-15 minuten op de hete pizzasteen of bakplaat.
+1. Zet alle ingrediënten klaar en weeg alles nauwkeurig af.
+2. Doe alle **bloem** in de machine.
+3. Voeg de **droge gist** toe aan de bloem.
+4. Ventileer de bloem en gist gedurende 1 minuut door de machine kort te laten draaien.
+5. Meng de bloem met 95% van het **water**.
+6. Voeg de resterende 5% water toe om alle bloemresten goed te vermengen en de randen van de machine schoon te maken.
+7. Meng op stand 1 gedurende ongeveer 6 minuten tot een homogeen mengsel.
+8. Voeg het **zout** toe.
+9. Kneed nog 6-8 minuten verder tot het deeg een temperatuur van 24 graden heeft bereikt.
+10. Voeg de **olijfolie** toe en kneed nog 2 minuten totdat de olie volledig is opgenomen.
+11. Laat het deeg 30 minuten rusten onder een vochtige theedoek (**eerste rijzing**).
+12. Verdeel het deeg in 7 bollen van ongeveer ~230 gram en bol ze stevig op.
+13. Leg de bollen in een luchtdichte bak en zorg dat de onderzijde goed gesloten is.
+14. Laat de bollen 8 uur rijzen buiten de koelkast, en daarna 48 uur in de koelkast.
+15. Open het deeg in fijne semolina of rijststrooimeel voordat je het belegt en afbakt.
 
 -----
 
 ## Aantekeningen
+
+Bij bevriezen, bewaren tot 2 maanden, dan 5-6 uur uit koeling voor gebruik.
+Zie ook [[Pizza tomatensaus]].
+Verhoudingen pizzadeeg 230gr + kaas 80gr + tomatensaus 80gr + topping 80gr
