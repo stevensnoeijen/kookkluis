@@ -9,8 +9,9 @@ url: https://breaddad.com/bread-machine-sourdough-recipe/
 Bereidingstijd: totaal circa 4 uur 
 (5 minuten voorbereiding, 3 uur en 15 minuten broodmachine en 1 uur laten afkoelen)
 
-Recept voor: 750gr brood van circa 20 sneden
+Recept voor: 800gr brood van circa 20 sneden
 ![[broodmachine-zuurdesembrood.png|500]]
+
 Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige planning.
 
 ### Ingredienten
@@ -19,7 +20,7 @@ Dit recept is idiaal om een [[Zuurdesem brood]] te bakken zonder die lastige pla
 - 115 ml [[Zuurdesem starter]] (dik, anders meer bloem toevoegen)
 - 40 ml plantaardige olie of ongezouten boter (minder word het brood droger van)
 - 400 gr tarwebloem
-	optioneel: hiervan kan je evt. 50gr mee en/of 25gr broodkruimels
+	optioneel: hiervan kan je evt. 50gr meel en/of 25gr broodkruimels
 - 13 gr kristalsuiker
 - 6 gr zout
 - 3 gr gist
