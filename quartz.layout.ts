@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'snoein/kookkluis',
+        repo: 'stevensnoeijen/kookkluis',
         repoId: 'R_kgDOPakuMQ',
         category: 'Announcements',
         categoryId: 'DIC_kwDOPakuMc4Ct8KG',
