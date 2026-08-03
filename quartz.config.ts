@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "nl-NL",
-    baseUrl: "snoein.github.io/kookkluis/",
+    baseUrl: "stevensnoeijen.github.io/kookkluis/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
